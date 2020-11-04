@@ -1,0 +1,4 @@
+wget -O /backup.sh https://raw.githubusercontent.com/abdsmd/Automated-MySQL-Database-Backup-Script/main/backup.sh
+chmod 777 /backup.sh
+# To run immediate backup 
+/backup.sh
