@@ -1,4 +1,5 @@
 # Automated MySQL Database Backup
+![](`https://github.com/abdsmd/Automated-MySQL-Database-Backup-Script/blob/main/mysql-backup-to-ftp.png`)
 
 ```
 wget -O /backup.sh https://raw.githubusercontent.com/abdsmd/Automated-MySQL-Database-Backup-Script/main/backup.sh
