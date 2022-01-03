@@ -1,4 +1,9 @@
-# Automated MySQL Database Backup
+## You Can Choose VPS from DigitalOcean
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=4ef7bcd8895a&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
+
+
+## Automated MySQL Database Backup
 ![Automated MySQ LDatabase Backup Script](https://github.com/abdsmd/Automated-MySQL-Database-Backup-Script/raw/main/mysql-backup-to-ftp.png "Automated MySQ LDatabase Backup Script")
 
 ```
